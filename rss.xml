@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[luke's machine learning lab.]]></title><description><![CDATA[Development diary]]></description><link>http://lukekim77.github.com</link><image><url>http://lukekim77.github.com/public/img/favorite.png</url><title>luke&apos;s machine learning lab.</title><link>http://lukekim77.github.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 31 Dec 2013 05:39:22 GMT</lastBuildDate><atom:link href="http://lukekim77.github.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[This movie]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a6894b8e552ddb3a8fe1a96a6dab2213?r=pg&s=48.jpg&d=identicon"><br/><p>와이프의 남는 극장표... 정확히는 오늘까지 써야하는 영화쿠폰으로
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[luke's machine learning lab.]]></title><description><![CDATA[Development diary]]></description><link>http://lukekim77.github.com</link><image><url>http://lukekim77.github.com/public/img/favorite.png</url><title>luke&apos;s machine learning lab.</title><link>http://lukekim77.github.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 31 Dec 2013 16:26:24 GMT</lastBuildDate><atom:link href="http://lukekim77.github.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[This movie]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a6894b8e552ddb3a8fe1a96a6dab2213?r=pg&s=48.jpg&d=identicon"><br/><p>와이프의 남는 극장표... 정확히는 오늘까지 써야하는 영화쿠폰으로
 최근 보고 싶었던 영화를 봤다...
 치열했던 삶, 보는내내 불편하고 울컥울컥하고...
 눈물이 왈칵 쏟아지려는 걸 얼마나 참았는지...
 정말 혼자였다면 엉엉 울고 싶어지는 그런 영화였다...
 이런 슬픔은 단순히 누군가에 대한 그리움이나 그 당시 상황에 대한 분개만이 아니라
-현실에서 모른척하고 애써 외면하고 있는 나에 대한 투영으로부터가 아닌가 생각해 본다.</p>]]></description><link>http://lukekim77.github.com/post/this-movie</link><guid isPermaLink="false">this-movie</guid><dc:creator><![CDATA[<a href="" target="_blank">Jaepil Kim</a>]]></dc:creator><pubDate>Tue, 31 Dec 2013 05:13:00 GMT</pubDate></item><item><title><![CDATA[hello world]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a6894b8e552ddb3a8fe1a96a6dab2213?r=pg&s=48.jpg&d=identicon"><br/><p>하루프레스를 이용한 블로그 포스팅 테스트
+현실에서 모른척하고 애써 외면하고 있는 나에 대한 투영으로부터가 아닌가 생각해 본다.</p>]]></description><link>http://lukekim77.github.com/post/this-movie</link><guid isPermaLink="false">this-movie</guid><dc:creator><![CDATA[<a href="lukekim77" target="_blank">Jaepil Kim</a>]]></dc:creator><pubDate>Tue, 31 Dec 2013 05:13:00 GMT</pubDate></item><item><title><![CDATA[hello world]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a6894b8e552ddb3a8fe1a96a6dab2213?r=pg&s=48.jpg&d=identicon"><br/><p>하루프레스를 이용한 블로그 포스팅 테스트
 내용은 마크다운 포맷으로 작성해야 함</p>
 <h1 id="toc_2">intro</h1>
 <p>하루프레스를 이용한 블로그 포스팅 예제
 하루프레스는 노드 기반으로 구현된 정적 페이지 블로그 엔진임</p>
 <h2 id="toc_3">official site</h2>
 <p><a href="http://haroopress.github.com">haroopress</a></p><p>링크도 마크다운 형식으로 작성함
-<a href = "http://haroopress.github.com">haroopress</a></p>]]></description><link>http://lukekim77.github.com/post/hello-world</link><guid isPermaLink="false">hello-world</guid><dc:creator><![CDATA[<a href="" target="_blank">Jaepil Kim</a>]]></dc:creator><pubDate>Mon, 30 Dec 2013 08:48:00 GMT</pubDate></item><item><title><![CDATA[Welcome to haroopress]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a8618a255192bd842fdd62d099776735?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_11">환영합니다.</h3>
+<a href = "http://haroopress.github.com">haroopress</a></p>]]></description><link>http://lukekim77.github.com/post/hello-world</link><guid isPermaLink="false">hello-world</guid><dc:creator><![CDATA[<a href="lukekim77" target="_blank">Jaepil Kim</a>]]></dc:creator><pubDate>Mon, 30 Dec 2013 08:48:00 GMT</pubDate></item><item><title><![CDATA[Welcome to haroopress]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a8618a255192bd842fdd62d099776735?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_11">환영합니다.</h3>
 
 <ul>
 <li>Welcome</li>
